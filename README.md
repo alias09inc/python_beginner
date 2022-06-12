@@ -15,4 +15,4 @@ string:文字型
 
 lists:リスト型
 
-taple:タプル型
+tuple:タプル型
